@@ -3,7 +3,7 @@
 The purpose of this project was to creat an interactable dashboard to search the Belly Button Biodiversity dataset. 
 
 ### Deliverable 1
-Here, we are asked to use Javascript, Plotly, and D3.js to make a horizontal bar chart that shows the top 10 types of bacteria species when someones ID number is searched in the dropdown menu. The chart shows sample values, as well as the bacteria species ID. An image of the chart is shown below
+Here, we are asked to use Javascript, Plotly, and D3.js to make a horizontal bar chart that shows the top 10 types of bacteria species when someones ID number is searched in the dropdown menu. The chart shows sample values, as well as the bacteria species ID. An image of the chart is shown below. 
 
 ![bar_chart](https://user-images.githubusercontent.com/80054925/120932347-fdd8e980-c6ba-11eb-87d7-c1d08bde1236.png)
 
@@ -16,3 +16,8 @@ Here, we use Javascript, Plotly, and D3.js again, but this time we are asked to 
   5. Bacteria labels as the hover-text values
 
 ![Bubble_chart](https://user-images.githubusercontent.com/80054925/120932533-dc2c3200-c6bb-11eb-9f78-6cb2f06ff690.png)
+
+## Deliverable 3
+Finally, we are to use Javascript, Plotly, and D3.js to make a guage chart that shows weekly washing frequency values. The value is displayed as a measure of 0-10 when an individuals ID is selected from the dropdown menu. An image of the chart is shown below. 
+
+![guage_chart](https://user-images.githubusercontent.com/80054925/120932655-4513aa00-c6bc-11eb-8470-61e8ff7c99d0.png)
