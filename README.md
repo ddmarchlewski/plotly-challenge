@@ -21,3 +21,8 @@ Here, we use Javascript, Plotly, and D3.js again, but this time we are asked to 
 Finally, we are to use Javascript, Plotly, and D3.js to make a guage chart that shows weekly washing frequency values. The value is displayed as a measure of 0-10 when an individuals ID is selected from the dropdown menu. An image of the chart is shown below. 
 
 ![guage_chart](https://user-images.githubusercontent.com/80054925/120932655-4513aa00-c6bc-11eb-8470-61e8ff7c99d0.png)
+
+## Dashboard
+Here is a screenshot of the full dashboard.
+
+![dashboard](https://user-images.githubusercontent.com/80054925/120932739-9fad0600-c6bc-11eb-87ff-0605087896bd.png)
