@@ -49,7 +49,6 @@ function optionChanged(selectedID){
        },
        layout = {
        title: 'Top 10 Bacteria Cultures Found',
-       xaxis: {title: 'Number of Samples Collected'},
        yaxis: {title: 'OTU ID'}
        };
  
